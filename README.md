@@ -2,4 +2,4 @@
 1) Scala Architecture Guide 
 2) Julia Automatic Differentiation Notebook
 3) Julia XGBoost NoteBook
-4) Machine Learning (ML) Pipeline
+4) Portfolio of Machine Learning (ML) Projects (53 pages)
